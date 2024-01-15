@@ -2,11 +2,6 @@
 
 I am Maxime, a developer based in Nantes, France.
 
-#### A brief summary of my carreer
-- 2 years Freelancing
-- 4 years at GensdeConfiance. From Level 1/7 to 4/7 
-- Currently starting my new freelancing chapter (01/2024) 🚀
-
 #### What I master:<br>
 [![My Skills](https://skillicons.dev/icons?i=ts,react,nextjs,vercel,styledcomponents,figma,vscode)](https://skillicons.dev)
 
